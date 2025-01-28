@@ -1,0 +1,53 @@
+#banner {
+    background-color: rgb(211, 132, 29);
+    padding: 65px;
+    text-align: center;
+}
+nav ul {
+    background-color:bisque;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav li {
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: green;
+}
+nav a:hover {
+    color:rgb(108, 179, 108);
+}
+
+#banner {
+    text-align: center; 
+    font-family: 'Georgia', serif; 
+    font-size: 35px;
+   
+}
+
+.padding {
+    color: rgb(70, 40, 0);
+    margin: 20;
+    padding-left: 20px;
+}
+
+* {
+    background-color: bisque;
+}
+
+h2 {
+    text-indent: 0.5%;
+}
+
+li  {
+    color: rgb(70, 40, 0);
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
